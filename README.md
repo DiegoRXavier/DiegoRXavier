@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoRXavier
 - 👀 I’m interested in ... learn more
 - 🌱 I’m currently learning ... frontend  
-- 💞️ I’m looking to collaborate on ... new jobs
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...diegorafaelreivax@gmail.com
 
 <!---
